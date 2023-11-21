@@ -1,4 +1,3 @@
-// ImageGallery.js
 
 import React, { Component } from 'react';
 import ImageGalleryItem from 'components/ImageGalleryItem/ImageGalleryItem';
